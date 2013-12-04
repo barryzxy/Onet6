@@ -1,0 +1,11 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+H:\2013ÄêÏîÄ¿\onet6\rt-thread_demo\mdk\project.uvproj
+Project File Date:  11/02/2013
+
+<h2>Output:</h2>
+Clean started: Project: 'project'
+   deleting intermediate output files for target 'RT-Thread STM32'
